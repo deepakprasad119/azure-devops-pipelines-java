@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ORG1-DP119/DevOps1/_apis/build/status%2Fdeepakprasad119.azure-devops-pipelines-java?branchName=main)](https://dev.azure.com/ORG1-DP119/DevOps1/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
