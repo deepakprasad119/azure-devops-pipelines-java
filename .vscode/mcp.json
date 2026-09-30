@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "ado-remote-mcp": {
+      "url": "https://mcp.dev.azure.com/ORG1-DP119",
+      "type": "http",
+      "headers": {
+        "X-MCP-Toolsets": "elm"
+      }
+    }
+  },
+  "inputs": []
+}
